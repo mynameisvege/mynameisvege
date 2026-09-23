@@ -20,28 +20,22 @@ Atualmente, meu objetivo é continuar evoluindo na área de tecnologia, transfor
 
 
 Afinidades
-├── 🖥️ Technology
-├── 🌐 Networks
-├── 🔧 Hardware
-├── ⚙️ Automation
-└── 🚀 Continuous Learning
+🖥️ Technology
+🌐 Networks
+🔧 Hardware
+⚙️ Automation
+🚀 Continuous Learning
 
 ---
 
-🖥️ "Meus Objetivos"
-
-┌──[mynameisvege@GITHUB]─[~]
-└─$ ./current_objectives.sh
-
+Meus Objetivos
 [✓] Evoluir em infraestrutura e redes
 [✓] Desenvolver projetos próprios
 [✓] Aprender novas tecnologias
 [✓] Melhorar Git & GitHub
 
-SYSTEM STATUS: DEVELOPMENT_MODE
 
----
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:111827,100:050505&height=100&section=footer"/><sub>© 2026 Lucas Leonez • Built with curiosity, code & technology.</sub>
+© 2026 Lucas Leonez • Built with curiosity, code & technology.
 
 </div>
