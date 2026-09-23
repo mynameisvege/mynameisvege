@@ -24,7 +24,6 @@ Também tenho experiência trabalhando diretamente com pessoas, atendimento e re
 
 Atualmente, meu objetivo é continuar evoluindo na área de tecnologia, transformar conhecimento em projetos reais e construir uma trajetória cada vez mais voltada para TI, desenvolvimento e infraestrutura.
 
-$ whoami
 
 Lucas Leonez
 ├── 🖥️ Technology
@@ -66,17 +65,13 @@ Lucas Leonez
 
 🖥️ "CURRENT_OBJECTIVES"
 
-┌──[LUCAS@GITHUB]─[~]
+┌──[mynameisvege@GITHUB]─[~]
 └─$ ./current_objectives.sh
 
-[✓] Aprimorar conhecimentos em programação
 [✓] Evoluir em infraestrutura e redes
 [✓] Desenvolver projetos próprios
 [✓] Aprender novas tecnologias
 [✓] Melhorar Git & GitHub
-[ ] Expandir conhecimentos em desenvolvimento
-[ ] Criar projetos maiores e mais completos
-[ ] Construir uma carreira sólida em tecnologia
 
 SYSTEM STATUS: DEVELOPMENT_MODE
 
