@@ -7,12 +7,11 @@
 ┌──────────────────────────────────────────────────────────────┐
 │                     LUCAS LEONEZ // USER                     │
 ├──────────────────────────────────────────────────────────────┤
-│ ROLE       : Technology Enthusiast / IT / Developer          │
-│ LOCATION   : São Paulo, Brazil 🇧🇷                           │
-│ FOCUS      : Networks • Hardware • Software • Automation     │
-│ STATUS     : [ ONLINE ]                                      │
-│ MODE       : Learning / Building / Improving                 │
-└──────────────────────────────────────────────────────────────┘
+│ ROLE       : Technology Enthusiast / IT / Developer          
+│ LOCATION   : São Paulo, Brazil 🇧🇷                           
+│ FOCUS      : Networks • Hardware • Software • Automation     
+│ STATUS     : [ ONLINE ]                                      
+│ MODE       : Learning / Building /
 
 🧠 Sobre Mim
 
