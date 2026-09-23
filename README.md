@@ -19,7 +19,6 @@ Também tenho experiência trabalhando diretamente com pessoas, atendimento e re
 Atualmente, meu objetivo é continuar evoluindo na área de tecnologia, transformar conhecimento em projetos reais e construir uma trajetória cada vez mais voltada para TI, desenvolvimento e infraestrutura.
 
 
-Afinidades
 🖥️ Technology
 🌐 Networks
 🔧 Hardware
@@ -28,11 +27,10 @@ Afinidades
 
 ---
 
-Meus Objetivos
-[✓] Evoluir em infraestrutura e redes
-[✓] Desenvolver projetos próprios
-[✓] Aprender novas tecnologias
-[✓] Melhorar Git & GitHub
+[🎯] Evoluir em infraestrutura e redes
+[🎯] Desenvolver projetos próprios
+[🎯] Aprender novas tecnologias
+[🎯] Melhorar Git & GitHub
 
 
 
