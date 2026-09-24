@@ -16,16 +16,18 @@ Minha experiência passa por infraestrutura, redes, hardware, instalação de si
 
 Também tenho experiência trabalhando diretamente com pessoas, atendimento e resolução de problemas — algo que considero tão importante quanto o conhecimento técnico.
 
-Atualmente, meu objetivo é continuar evoluindo na área de tecnologia, transformar conhecimento em projetos reais e construir uma trajetória cada vez mais voltada para TI, desenvolvimento e infraestrutura.
+Atualmente atuo com Trust & Safety e Content Moderation, realizando análise e classificação de anúncios e conteúdos em plataformas digitais, aplicação de políticas, identificação de possíveis fraudes e violações, controle de qualidade e encaminhamento de casos que exigem análise especializada.
+
+Paralelamente, estou estudando Cibersegurança, desenvolvendo conhecimentos em redes, Linux, segurança da informação, análise de vulnerabilidades, monitoramento, resposta a incidentes e automação.
+
+Buscando constantemente unir minha experiência prática com tecnologia, redes e segurança para evoluir profissionalmente na área de TI. 🔐
 
 
 🖥️ Technology
 🌐 Networks
 🔧 Hardware
 ⚙️ Automation
-🚀 Continuous Learning
 
----
 
 [🎯] Evoluir em infraestrutura e redes
 [🎯] Desenvolver projetos próprios
