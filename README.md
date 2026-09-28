@@ -6,6 +6,8 @@
 🛠️ Technology Enthusiast / IT         
 🌍 São Paulo, Brazil 🇧🇷                           
 
+
+               
 🧠 Sobre Mim:
 
 Olá! Eu sou Lucas Leonez, apaixonado por tecnologia e por entender como as coisas funcionam por trás da interface.
@@ -21,6 +23,8 @@ Paralelamente, estou estudando Cibersegurança, desenvolvendo conhecimentos em r
 Buscando constantemente unir minha experiência prática com tecnologia, redes e segurança para evoluir profissionalmente na área de TI. 🔐
 
 
+
+               
 🖥️ Technology
      
 🌐 Networks
@@ -31,6 +35,8 @@ Buscando constantemente unir minha experiência prática com tecnologia, redes e
      
 
 
+
+               
 [🎯] Evoluir em infraestrutura e redes
      
 [🎯] Desenvolver projetos próprios
@@ -41,6 +47,8 @@ Buscando constantemente unir minha experiência prática com tecnologia, redes e
      
 
 
+
+          
 
 © 2026 Lucas Leonez • Built with curiosity, code & technology.
 
