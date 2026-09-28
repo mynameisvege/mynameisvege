@@ -3,10 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=lucasleonez&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge"/></div>
 
 
-🛠️ Technology Enthusiast / IT / Developer          
+🛠️ Technology Enthusiast / IT         
 🌍 São Paulo, Brazil 🇧🇷                           
-🎯 Networks • Hardware • Software • Automation     
-
 
 🧠 Sobre Mim:
 
@@ -24,15 +22,23 @@ Buscando constantemente unir minha experiência prática com tecnologia, redes e
 
 
 🖥️ Technology
+     
 🌐 Networks
+     
 🔧 Hardware
-⚙️ Automation
+     
+🧠 Software
+     
 
 
 [🎯] Evoluir em infraestrutura e redes
+     
 [🎯] Desenvolver projetos próprios
+     
 [🎯] Aprender novas tecnologias
+     
 [🎯] Melhorar Git & GitHub
+     
 
 
 
