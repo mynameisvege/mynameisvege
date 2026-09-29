@@ -52,4 +52,9 @@ Buscando constantemente unir minha experiência prática com tecnologia, redes e
 
 © 2026 Lucas Leonez • Built with curiosity, code & technology.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,java" />
+</p>
+
+
 </div>
