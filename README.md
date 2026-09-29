@@ -52,11 +52,10 @@ Buscando constantemente unir minha experiência prática com tecnologia, redes e
 
 © 2026 Lucas Leonez • Built with curiosity, code & technology.
 
-<h3 align="center">🛠️ Ferramentas que utilizo</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,vscode,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=discord,vscode,linux,git,github,python" />
 </p>
+
 
 
 
