@@ -56,6 +56,25 @@ Buscando constantemente unir minha experiência prática com tecnologia, redes e
   <img src="https://skillicons.dev/icons?i=discord,vscode,linux,git,github,python" />
 </p>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,bash,python,c,cpp,git,github,vscode,docker" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,postgres,php,java,rust" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
 
 
 
