@@ -8,19 +8,54 @@
 
 
                
-🧠 Sobre Mim:
+$ whoami
+Lucas Leonez
 
-Olá! Eu sou Lucas Leonez, apaixonado por tecnologia e por entender como as coisas funcionam por trás da interface.
+💻 Tech enthusiast | Cybersecurity Student | IT & Infrastructure
 
-Minha experiência passa por infraestrutura, redes, hardware, instalação de sistemas, suporte técnico e tecnologia, além do interesse constante por programação, automação e desenvolvimento de projetos próprios.
+class LucasLeonez:
+    def __init__(self):
+        self.interests = [
+            "Cybersecurity",
+            "Networking",
+            "Linux",
+            "Infrastructure & Hardware",
+            "Automation",
+            "Software Development"
+        ]
 
-Também tenho experiência trabalhando diretamente com pessoas, atendimento e resolução de problemas — algo que considero tão importante quanto o conhecimento técnico.
+        self.experience = [
+            "IT Support & Troubleshooting",
+            "Trust & Safety",
+            "Content Moderation",
+            "Fraud Detection & Risk Analysis"
+        ]
 
-Atualmente atuo com Trust & Safety e Content Moderation, realizando análise e classificação de anúncios e conteúdos em plataformas digitais, aplicação de políticas, identificação de possíveis fraudes e violações, controle de qualidade e encaminhamento de casos que exigem análise especializada.
+        self.current_focus = [
+            "Information Security",
+            "Vulnerability Analysis",
+            "Incident Response",
+            "Scripting & Automation"
+        ]
 
-Paralelamente, estou estudando Cibersegurança, desenvolvendo conhecimentos em redes, Linux, segurança da informação, análise de vulnerabilidades, monitoramento, resposta a incidentes e automação.
+    def mindset(self):
+        return "Understand the system. Break down the problem. Build the solution."
 
-Buscando constantemente unir minha experiência prática com tecnologia, redes e segurança para evoluir profissionalmente na área de TI. 🔐
+"// About me"
+
+Sou apaixonado por tecnologia e movido pela curiosidade de entender o que acontece por trás das interfaces, dos sistemas e das redes.
+
+Minha trajetória envolve infraestrutura de TI, redes, hardware, instalação de sistemas operacionais, suporte técnico e resolução de problemas. Também tenho experiência profissional em Trust & Safety e Content Moderation, com análise de conteúdo digital, aplicação de políticas, identificação de fraudes, controle de qualidade e avaliação de riscos em plataformas digitais.
+
+🔐 Atualmente, direciono meus estudos para Cibersegurança, aprofundando conhecimentos em Linux, redes, segurança da informação, análise de vulnerabilidades, monitoramento e resposta a incidentes.
+
+⚙️ Tenho interesse em programação, scripting, automação e desenvolvimento de projetos próprios, buscando transformar conhecimento teórico em soluções práticas.
+
+🚀 Meu objetivo é evoluir constantemente na área de tecnologia, conectando infraestrutura, programação e segurança para compreender sistemas, resolver problemas e construir soluções cada vez melhores.
+
+$ echo "Curiosity -> Learning -> Building -> Improving"
+
+Always learning. Always building. Always debugging.
 
 
 
