@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=lucasleonez&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge"/></div>
 
 
-🛠️ Entusiasta da Tecnologia / IT         
-🌍 São Paulo, Brazil 🇧🇷                           
+🛠️ Entusiasta da Tecnologia         
+🌍 São Paulo, Brasil 🇧🇷                           
 
 
                
@@ -12,7 +12,11 @@ Olá! Meu nome é Lucas, apaixonado por tecnologia e por entender como as coisas
 
 Minha experiência passa por infraestrutura, redes, hardware, instalação de sistemas, suporte técnico e tecnologia, além do interesse constante por programação, automação e desenvolvimento de projetos próprios.
 
-Também tenho experiência trabalhando diretamente com pessoas, atendimento e resolução de problemas — algo que considero tão importante quanto o conhecimento técnico.
+Inclusive tenho um projeto independente, criado totalmente por mim, desde layout até a criação dos bots e automações!
+
+A Leonez Network é um projeto autoral, independente e sem fins lucrativos, idealizado e desenvolvido por mim, com foco em tecnologia, networking e inovação. O projeto envolve a criação de bots para Discord, automações e ferramentas personalizadas, utilizando tecnologias como JavaScript, Node.js, Python, Discord.js e Discord API. Atualmente, a comunidade conta com mais de 300 membros ativos, proporcionando um ambiente voltado à conexão entre desenvolvedores, troca de conhecimentos, colaboração e divulgação de projetos independentes.
+
+Também tenho experiência trabalhando diretamente com pessoas, atendimento e resolução de problemas, algo que considero tão importante quanto o conhecimento técnico.
 E também atuei com Trust & Safety e Content Moderation, realizando análise e classificação de anúncios e conteúdos em plataformas digitais, aplicação de políticas, identificação de possíveis fraudes e violações, controle de qualidade e encaminhamento de casos que exigem análise especializada.
 
 No momento estou estudando Cibersegurança, desenvolvendo conhecimentos em redes, Linux, segurança da informação, análise de vulnerabilidades, monitoramento, resposta a incidentes e automação.
@@ -21,18 +25,8 @@ Buscando constantemente unir minha experiência prática com tecnologia, redes e
 
 
 
-               
-🖥️ Technology
-     
-🌐 Networks
-     
-🔧 Hardware
-     
-🧠 Software
-     
-
-
-
+          
+    
                
 [🎯] Evoluir em infraestrutura e redes
      
