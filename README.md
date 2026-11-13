@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=lucasleonez&label=SYSTEM%20VISITS&color=00f5ff&style=for-the-badge"/></div>
 
 
-🛠️ Entusiasta da Tecnologia / IT         
-🌍 São Paulo, Brazil 🇧🇷                           
+🛠️ Entusiasta da Tecnologia        
+🌍 São Paulo, Brasil 🇧🇷                           
 
 
                
